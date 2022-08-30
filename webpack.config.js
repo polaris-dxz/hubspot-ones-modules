@@ -65,6 +65,14 @@ const hubspotConfig = ({ portal, autoupload } = {}) => {
             from: 'src/modules',
             to: 'modules',
           },
+          // {
+          //   from: 'src/selections',
+          //   to: 'selections',
+          // },
+          // {
+          //   from: 'src/templates',
+          //   to: 'templates',
+          // },
         ],
       }),
     ],
